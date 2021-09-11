@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshrithSD
-- 👀 I’m interested in learning about latest technology 
+- 👀 Technology is a passion of mine and I enjoy nothing more than learning the trends that technology is taking in order to work more efficiently and see progress and success. 
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 Reach me at ashrithsd@gmail.com
 
